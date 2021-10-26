@@ -1,19 +1,20 @@
 Project-Name
-AKAN-NAMING
+DELANI-STUDIO
 
 Author
 EDWIKE NYAUNCHO
 
 Description
-This is a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name.
+Recreating a landing page for a fictional studio using Bootstrap and jQuery
 
 BDD
-Enter your birthday details You will input your details on the boxes -Choose your gender either Male or Female field provided since your akan name will be output only when you have provided the gender and your valid dates so you need to understand that the gender section is important. -Click the submit button to get the generated name and day of birth.
+Enter your details on the contact us section and a pop up message will show on the screen showing that we have received your message.There is a hover effect while clicking on the images in the portfolio and also toggle effect on the what we do icons.
+
 Technologies Used
--Used: JavaScript CSS (Bootstrap) Html
+-Used: JavaScript CSS (Bootstrap) Html jQuery
 
 Setup Instructions and Installation
-clone this repository https://github.com/Edwike12/Akan-naming.git open terminal to work in Akan-naming directory open idex.html in your browser
+clone this repository https://github.com/Edwike12/Delani-studio.git open terminal to work in Akan-naming directory open idex.html in your browser
 
 Development
 Want to contribute? Great!
