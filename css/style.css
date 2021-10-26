@@ -26,6 +26,45 @@
 
   }
 
+  body{
+    margin: 0;
+    padding: 0;
+    background: white;
+    font-family: sans-serif;
+  }
+
+   .portfolioContainer{
+    width: 1800px ;
+    margin: 70px;
+    display: flex;
+    flex-direction:row ;
+    flex-wrap: wrap;
+  }
+
+  .portfolioContainer.box{
+    position: relative;
+    width: 100px ;
+    height: 300px ;
+    background: #ff0 ;
+    margin: 10px auto 0;
+    box-sizing: border-box;
+    display: inline-block;
+  }
+
+  .portfolioContainer.box.imgBox{
+    position: relative;
+  }
+
+  .portfolioContainer.box.imgBox img{
+    max-width: 100%;
+    transition: transform 2s;
+  }
+
+  .portfolioContainer.box:hover.imgBox img{
+    transform: scale(1,2);
+
+  }
+
   .my-container{
     background-image: url(https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/c_image.jpg);
     color: white;
@@ -35,6 +74,4 @@
     background-size: cover;
     background-color: transparent;
   }
-
-  
   
