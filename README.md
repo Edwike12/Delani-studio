@@ -1,27 +1,34 @@
 #Project-Name
+
 DELANI-STUDIO
 
 #Author
+
 EDWIKE NYAUNCHO
 
 ##Description
+
 Recreating a landing page for a fictional studio using Bootstrap and jQuery
 
 ##BDD
 Enter your details on the contact us section and a pop up message will show on the screen showing that we have received your message.There is a hover effect while clicking on the images in the portfolio and also toggle effect on the what we do icons.
 
 ###Technologies Used
+
 -Used: JavaScript CSS (Bootstrap) Html jQuery
 
 ####Setup Instructions and Installation
+
 clone this repository https://github.com/Edwike12/Delani-studio.git open terminal to work in Akan-naming directory open idex.html in your browser
 
 ##Development
+
 Want to contribute? Great!
 
 To fix a bug or enhance an existing module, follow these steps:
 
 ####Fork the repo
+
 Create a new branch (git checkout -b improve-feature)
 Make the appropriate changes in the files
 Add changes to reflect the changes made
@@ -31,6 +38,7 @@ Create a Pull Request
 
 
 ###Known Bugs
+
 If you find a bug (the website couldn't handle the query and or gave undesired results), kindly open an issue here by including your search query and the expected result.
 
 If you'd like to request a new function, feel free to do so by opening an issue here. Please include sample queries and their corresponding results.
