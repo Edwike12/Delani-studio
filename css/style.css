@@ -44,7 +44,7 @@
   .portfolioContainer.box{
     position: relative;
     width: 100px ;
-    height: 300px ;
+    height: 200px ;
     background: #ff0 ;
     margin: 10px auto 0;
     box-sizing: border-box;
@@ -57,7 +57,7 @@
 
   .portfolioContainer.box.imgBox img{
     max-width: 100%;
-    transition: transform 2s;
+    transition: transform 5s;
   }
 
   .portfolioContainer.box:hover.imgBox img{
